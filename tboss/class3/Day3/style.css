@@ -1,0 +1,23 @@
+a{
+    margin: 3%;
+
+}
+a:hover{
+    font-size: larger;
+    background-color: red;
+    padding: 2%;
+    border-radius: 8px;
+
+}
+.image{
+        width: 100px;
+        height: 100px;
+        background: red;
+        -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+        transition: width 2s;
+      }
+      
+      .image:hover {
+        width: 300px;
+
+}
